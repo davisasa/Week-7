@@ -1,0 +1,175 @@
+body{
+    font-family: sans-serif;
+}
+
+.nav-pad{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.nav-text-size{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.click-buttons{
+    margin-right: 20px;
+}
+
+.blue-background{
+    background-image: linear-gradient(90deg, #538DFF 0%, #31DAFF 100%);
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+.blue-text-header{
+    color: blue !important;
+}
+
+.design-share{
+    padding-top: 150px;
+    padding-left: 90px;
+    color: #fff;
+}
+
+.design{
+    font-size: 40px;
+}
+
+.share{
+    font-size: 20px;
+}
+
+.mac-window{
+    width: 700px;
+}
+.smartchat{
+    background-color: RGB(123, 104, 238);
+    padding-top: 190px;
+    padding-bottom: 190px;
+}
+
+.icon-s{
+    height: 120px;
+}
+
+.playstore-1{
+    height: 40px;
+    width: 200px;
+}
+
+.appstore-1{
+    height: 40px;
+    width: 200px;
+}
+
+.opening-text{
+
+    font-size: 50px;
+   font-weight: lighter;
+}
+
+.opening-text-1{
+    padding-bottom: 30px;
+    opacity: 50%;
+}
+
+.phone-slide{
+    margin-top: 50px;
+}
+
+.phone-slide-section{
+    margin-top: 70px;
+    padding-left: 200px;
+}
+
+.phn-img{
+    height: 650px;
+}
+
+.our-clients{
+    padding-top: 200px;
+
+}
+
+.blue-text{
+    font-size: 35px;
+    color: RGB(0, 154, 205);
+}
+.today{
+    padding-top: 20px;
+    padding-bottom: 200px;
+    opacity: 60%;
+    line-height: 40px;
+}
+
+.pleasure-para{
+    opacity: 60%;
+    padding-bottom: 50px;
+}
+
+.woman-container{
+    padding-left: 100px;
+}
+
+.woman{
+    width: 550px;
+}
+
+span{
+    font-size: 200px;
+    padding-right: 50px;
+    opacity: 50%;
+}
+
+.picture-quote{
+    padding-top: 100px;
+    line-height: 40px;
+}
+
+.flex-quote{
+    display: flex;
+}
+
+.quote-name{
+    color: blue;
+    font-weight: bold;
+    margin-top: -20px;
+}
+
+.social-icons{
+    display: flex;
+}
+
+.s-icons{
+    height: 25px;
+}
+
+.footer-content{
+    display: flex;
+}
+
+.footer-logo{
+    height: 55px;
+}
+
+footer{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+    padding-right: 150px;
+}
+
+.download-section{
+    width: 1706px;
+    height: 300px;
+}
+
+.footer-para{
+    padding-top: 16px;
+}
+
+.social-icons{
+    display: flex;
+    justify-content: space-between !important;
+}

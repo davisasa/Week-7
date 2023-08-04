@@ -1,0 +1,166 @@
+body{
+    font-family: sans-serif;
+}
+
+.logo-img{
+    height: 100px;
+}
+
+.menu-container{
+    margin-top: 50px;
+}
+
+
+.menu-area{
+    justify-content: center;
+    display: flex;
+}
+
+.port-section{
+    height: 350px;
+}
+
+img{
+    height: 100px;
+}
+
+.header-margin{
+    margin-left: 950px;
+    margin-top: 30px;
+}
+
+.header-list{
+    display: flex;
+}
+
+.para-margin{
+    margin-top: 8px;
+}
+
+.link-color{
+    color: black !important;
+}
+
+.btn-flex{
+ padding-left: 210px;
+}
+
+.btn-color{
+    background-color: rgb(223, 128, 3);
+    color: #fff;
+}
+
+.btn-color-1{
+    background-color: rgb(2, 2, 106);
+    color: #fff;
+}
+
+.btn-color-2{
+    background-color: #fff;
+    color: #000000;
+}
+
+.blue{
+    background-color: blueviolet;
+}
+
+.port{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 40px;
+}
+
+.return{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 50px;
+    padding-right: 70px;
+}
+
+.para-portfolio{
+    padding-left: 40px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.btn-edit{
+    height: 40px;
+    margin-top: 10px;
+    margin-right: 20px; 
+    border:0.2px solid;
+    opacity: 50%;
+}
+
+.direct-debit{
+    margin-bottom: 20px;
+    padding-bottom: 7px;
+}
+
+
+
+.value{
+    opacity: 50%;
+}
+
+.target{
+    display: flex;
+    justify-content: space-between;
+}
+
+.progress-edit{
+    padding-left: 40px;
+}
+
+.progress{
+    height: 30px;
+    margin-left: 40px;
+    margin-right: 20px;
+}
+.progress-section{
+    height: 160px;
+    border-radius: 5px;
+}
+
+.transaction{
+    padding-bottom: 30px;
+}
+
+.allocation{
+    margin-bottom: 25px;
+    display: flex;
+    padding-top: 20px;
+}
+
+.table-edit{
+    margin-right: 80px;
+}
+
+.graph{
+    height: 350px;
+}
+
+.graph-edit{
+    padding-top: 80px;
+}
+
+.footer-black{
+    margin-top: 20px;
+    background-color: black;
+    color: #fff;
+    height: 90px;
+    padding-top: 20px;
+}
+
+.footer-link{
+    color: #fff;
+}
+
+.green-button{
+    background-color: rgb(220, 252, 242) !important;
+}
+
+
+
+
